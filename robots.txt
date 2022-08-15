@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: http://aifacembti.ga/sitemap.xml
